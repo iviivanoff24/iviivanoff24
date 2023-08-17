@@ -2,7 +2,7 @@
   <h1>
     Hi 👋🏻, I'm Iván Herculano
   </h1>
-  <p>🔭 I’m currently working on UEx</p>
+  <p>🔭 I’m currently studying on UEx</p>
   <p>🤝 I’m looking for help to improve my skills</p>
   <p>🌱 I’m currently learning a bit of all</p>
   <p>💬 Ask me about</p>
