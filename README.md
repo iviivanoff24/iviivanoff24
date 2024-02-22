@@ -48,7 +48,6 @@
 while (!suceed){
   try();
 }
-// - ivi_ivanoff24
 ```
 
 # 📊 GitHub Stats:
