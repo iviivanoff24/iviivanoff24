@@ -51,9 +51,6 @@ while (!suceed){
 }
 ```
 
-# 📊 GitHub Stats:
-<img src="https://myreadme.vercel.app/api/embed/iviivanoff24?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
 > [!IMPORTANT]
 > [ Take it easy ]
 ---
