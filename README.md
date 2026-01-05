@@ -13,6 +13,15 @@
   <a href="https://twitter.com/IIvanoff24" target="_blank"><img src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 </div>
 
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iviivanoff24&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iviivanoff24&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+<br />
+
 ## Tech Stack 💻
 #### Languages
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=openjdk)
